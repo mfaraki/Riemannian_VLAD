@@ -51,7 +51,7 @@ BinNum = U8File(1, 1);
 nDim = U8File(1, 2); %dimensionality of uniform patterns
 Code = U8File(2 : end, :);
 clear U8File;
-
+mkdir('./Seq_Geassmann');
 for tmpSeq = 1:length(seq_names)    
     tmpSeq
     load([dataset_dir seq_names(tmpSeq).name]);
