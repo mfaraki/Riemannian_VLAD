@@ -1,6 +1,6 @@
-This the source code of Grassmannian VLAD using the Dyntex++ dataset.
+This the source code of Grassmannian VLAD using the Projection distance on the Dyntex++ dataset.
 To obtain the accuracy scores, first download the Dyntex++ dataset from “http://www.bernardghanem.com/datasets”  (~570MB) and make sure the “imgdb” folder is in the root directory. 
-Then, run the scripts “generate_points.m” and “Grassmann_VLAD.m”, respectively. 
+Then, run the scripts “generate_points.m” and “Grassmann_VLAD_Projection.m”, respectively. 
 It occupies ~11.5 GB of your free disk space.
 The size of the dictionary, "K", is kept fixed to 16.
 
