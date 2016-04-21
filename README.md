@@ -10,6 +10,7 @@ In Proc. IEEE Conference on Computer Vision and Pattern Recognition
 (CVPR), Boston, USA, 2015.
 
  BibTex
+ 
 @inproceedings{faraki2015more,
   title={More About VLAD: A Leap from Euclidean to Riemannian Manifolds},
   author={Faraki, Masoud and Harandi, Mehrtash T and Porikli, Fatih},
