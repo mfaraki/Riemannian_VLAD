@@ -1,3 +1,4 @@
+# Riemannian VLAD
 This the (partial) source code of Riemannian VLAD in both the Grassmann manifold and the manifold of Symmetric Positive Definite matrices.
 Please refer to the ReadMe files provided in each folder.
 
