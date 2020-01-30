@@ -19,3 +19,14 @@ In Proc. IEEE Conference on Computer Vision and Pattern Recognition
   year={2015},
   organization={IEEE}
 }
+
+@article{faraki2018comprehensive,
+  title={A comprehensive look at coding techniques on Riemannian manifolds},
+  author={Faraki, Masoud and Harandi, Mehrtash T and Porikli, Fatih},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={29},
+  number={11},
+  pages={5701--5712},
+  year={2018},
+  publisher={IEEE}
+}
